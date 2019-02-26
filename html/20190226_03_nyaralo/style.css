@@ -1,0 +1,35 @@
+body{
+	background-color:yellow;
+	color:green;
+	font-family:Times New Roman, serif;
+	margin:30px auto;
+	width:70%;
+	font-size:20pt;
+	text-align:justify;
+	border:solid;
+	border-color:green;
+	border-width:30px;
+	
+}
+
+
+h1{
+	text-align:center;
+	
+}
+h2{
+	text-align:center;
+}
+
+#felkover{
+font-weight:bold;
+}
+
+#kicsi{
+	width:300px;
+	
+}
+
+p{
+	text-indent:12%;
+}
